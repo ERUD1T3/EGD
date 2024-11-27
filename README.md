@@ -1,2 +1,2 @@
 # EGD
-Evolutionary Gradient Descent with Novelty Search
+Evolutionary Gradient Descent with optional Novelty Search
